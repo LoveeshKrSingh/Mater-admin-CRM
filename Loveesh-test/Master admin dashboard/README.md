@@ -13,7 +13,7 @@ MERN Admin Dashboard is a full-stack web application built with the MERN (MongoD
 ### Installation
 
 1. Clone the repository.
-   git clone https://github.com/manir22sust/mern-admin-dashboard.git
+   git clone (https://github.com/LoveeshKrSingh/Mater-admin-CRM.git)
 
 2. Install the dependencies for both the client and server applications.
    cd mern-admin-dashboard/client && npm install
@@ -67,6 +67,3 @@ Once logged in, you will be taken to the dashboard page where you can view and m
 - Chart.js - JavaScript library used for data visualization.
 - Axios - Promise-based HTTP client used for making API requests.
 
-### Contributing
-
-Contributions are always welcome! If you have any suggestions or find any bugs, please open an issue or submit a pull request.
